@@ -17,3 +17,11 @@ Contaple is Simple Contact System build using php native for receive contact for
 4. Open localhost for see Frontend.
 5. Open localhost/Dashboard for see Backend.
 6. For Backend Login, Use <b>admin</b> for username and <b>admin</b> for password.
+
+# Let's connect with me!
+<p>
+    <a href="https://wafarifki.tk" target="_blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.tk-blue?" /></a>
+    <a href="https://www.linkedin.com/in/wafa-rifqi-anafin-553b591b7/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifkiAnafin_-blue" /></a>
+    <a href="https://facebook.com/bekasiHACKERlive" target="_blank"><img src="https://img.shields.io/badge/Facebook-bekasiHACKERlive-blue" /></a>
+    <a href="https://instagram.com/wafarifki_" target="_blank"><img src="https://img.shields.io/badge/Instagram-@wafarifki_-blue" /></a>
+</p>
