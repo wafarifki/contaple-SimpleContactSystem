@@ -6,6 +6,7 @@ Contaple is Simple Contact System build using php native for receive contact for
 
 # Demo Backend
 <a href="https://wafarifki.tk/simplecontactsystem/Dashboard" target="_blank">https://wafarifki.tk/simplecontactsystem/Dashboard</a>
+<i>For Backend Login, Use <b>admin</b> for username and <b>admin</b> for password.</i>
 
 # ScreenShoot
  <img src="https://raw.githubusercontent.com/wafarifki/contaple-SimpleContactSystem/main/SS.png">
