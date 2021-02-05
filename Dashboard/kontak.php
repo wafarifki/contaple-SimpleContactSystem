@@ -191,32 +191,32 @@
                                                 <?php
                                                     $sql=mysqli_query($konek, "SELECT * FROM kontak ORDER BY id ASC");
                                                     $no=1;
-                                                    while($d=mysqli_fetch_array($sql)){
-                                                    	echo "<tr class='tb-tnx-item'>
+                                                    while($d=mysqli_fetch_array($sql)){ ?>
+                                                    <tr class='tb-tnx-item'>
                                                     <td class='tb-tnx-id'>
-                                                    <span>#$no</span>
+                                                    <span>#<?php echo $no;?></span>
                                                     </td>
                                                     <td class='tb-tnx-info'>
-                                                    <span class=''>$d[nama]</span>
+                                                    <span class=''><?php echo $d[nama];?></span>
                                                     </td>
                                                     <td class='tb-tnx-info'>
-                                                    <span class=''>$d[email]</span>
+                                                    <span class=''><?php echo $d[email];?></span>
                                                     </td>
                                                     <td class='tb-tnx-info'>
-                                                    <span class=''>$d[pesan]</span>
+                                                    <span class=''><?php $str = $d[pesan]; echo htmlentities($str, ENT_QUOTES, 'UTF-8');?></span>
                                                     </td>
                                                     <td class='tb-tnx-action'>
                                                     <div class='dropdown'>
                                                     <a class='text-soft dropdown-toggle btn btn-icon btn-trigger' data-toggle='dropdown'><em class='icon ni ni-more-h'></em></a>
                                                     <div class='dropdown-menu dropdown-menu-right dropdown-menu-xs'>
                                                     <ul class='link-list-plain'>
-                                                    <li><a href='hapuskontak.php?id=$d[id]'>Hapus Data</a></li>
+                                                    <li><a href='hapuskontak.php?id=<?php echo $d[id];?>'>Hapus Data</a></li>
                                                     </ul>
                                                     </div>
                                                     </div>
                                                     </td>
-                                                    </tr>";
-                                                    $no++; } ?>
+                                                    </tr>
+                                                    <?php $no++; } ?>
                                             </tbody>
                                         </table>
                                     </div>
