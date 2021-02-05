@@ -1,6 +1,9 @@
 # contaple-SimpleContactSystem
 Contaple is Simple Contact System build using php native for receive contact form from fronted. Contaple 100% Free for learn and development.
 
+# Information
+<b>Updated Security From XSS INJECTION</b>
+
 # Demo Frontend
 <a href="https://wafarifki.tk/simplecontactsystem" target="_blank">https://wafarifki.tk/simplecontactsystem</a>
 
