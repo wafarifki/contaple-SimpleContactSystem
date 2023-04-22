@@ -4,13 +4,6 @@ Contaple is Simple Contact System build using php native for receive contact for
 # Information
 <b>Updated Security From XSS INJECTION</b>
 
-# Demo Frontend
-<a href="https://wafarifki.tk/simplecontactsystem" target="_blank">https://wafarifki.tk/simplecontactsystem</a>
-
-# Demo Backend
-<a href="https://wafarifki.tk/simplecontactsystem/Dashboard" target="_blank">https://wafarifki.tk/simplecontactsystem/Dashboard</a>
-<br /><i>For Backend Login, Use <b>admin</b> for username and <b>admin</b> for password.</i>
-
 # ScreenShoot
  <img src="https://raw.githubusercontent.com/wafarifki/contaple-SimpleContactSystem/main/SS.png">
  
@@ -24,8 +17,9 @@ Contaple is Simple Contact System build using php native for receive contact for
 
 # Let's connect with me!
 <p>
-    <a href="https://wafarifki.tk" target="_blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.tk-blue?" /></a>
-    <a href="https://www.linkedin.com/in/wafa-rifqi-anafin-553b591b7/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifkiAnafin_-blue" /></a>
-    <a href="https://facebook.com/bekasiHACKERlive" target="_blank"><img src="https://img.shields.io/badge/Facebook-bekasiHACKERlive-blue" /></a>
+    <a href="https://wafarifki.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.github.io-blue?" /></a>
+    <a href="https://www.linkedin.com/in/wafarifqi/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifqiAnafin_-blue" /></a>
+    <a href="https://facebook.com/wafarifkianafin" target="_blank"><img src="https://img.shields.io/badge/Facebook-wafarifkianafin-blue" /></a>
     <a href="https://instagram.com/wafarifki_" target="_blank"><img src="https://img.shields.io/badge/Instagram-@wafarifki_-blue" /></a>
 </p>
+
